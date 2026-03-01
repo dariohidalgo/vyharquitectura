@@ -58,7 +58,7 @@ const ProblemSolution = () => {
                         className="space-y-8"
                     >
                         <div className="flex items-center space-x-4 mb-8">
-                            <span className="text-xs tracking-[0.2em] font-sans uppercase text-gold-muted">El Estándar V&H</span>
+                            <span className="text-xs tracking-[0.2em] font-sans uppercase text-gold-muted">El Estándar Trama</span>
                         </div>
 
                         <ul className="space-y-8">

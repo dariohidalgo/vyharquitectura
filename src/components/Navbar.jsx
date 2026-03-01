@@ -21,7 +21,7 @@ const Navbar = () => {
             <div className="container mx-auto px-6 md:px-12 flex justify-between items-center">
                 {/* Logo */}
                 <a href="#" className="font-serif text-2xl font-semibold tracking-wide text-ink relative z-50">
-                    V&H <span className="text-gold-muted font-normal italic">Arquitectura</span>
+                    Trama <span className="text-gold-muted font-normal italic">Servicios de Arquitectura</span>
                 </a>
 
                 {/* Desktop Menu */}

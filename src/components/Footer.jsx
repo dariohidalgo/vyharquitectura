@@ -33,7 +33,7 @@ const Footer = () => {
             <div className="py-8 bg-ink-light">
                 <div className="container mx-auto px-6 md:px-12 flex flex-col md:flex-row justify-between items-center text-xs font-sans text-ivory/40 tracking-wider">
                     <p className="mb-4 md:mb-0">
-                        &copy; {new Date().getFullYear()} V&H Arquitectura. Todos los derechos reservados.
+                        &copy; {new Date().getFullYear()} Trama Servicios de Arquitectura. Todos los derechos reservados.
                     </p>
                     <div className="flex space-x-6">
                         <a href="#" className="hover:text-gold-soft transition-colors">Aviso Legal</a>
